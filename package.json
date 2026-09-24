@@ -1,0 +1,9 @@
+{
+  "name": "slovv-coffee-links",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve dist",
+    "build": "node -e \"console.log('Static site ready in dist/')\""
+  }
+}
